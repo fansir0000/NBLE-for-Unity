@@ -1,4 +1,4 @@
-# NBLE-for-Unity
+# NBLE-for-Unity Support
 A super simple low-power Bluetooth plugin for the Android platform.
 
 A Unity plugin that supports simultaneous connections to multiple BLE devices.
